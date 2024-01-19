@@ -1,0 +1,28 @@
+
+.quote-single{
+display: flex;
+flex-direction: column;
+width: 60%;
+color: black;
+margin: 100px auto;
+background-color: rgb(142, 135, 136);
+border: rgb(10, 10, 10) 10px solid;
+}
+.quote-single h1{
+    font-size: 3em;
+    font-family: 'Pacifico', cursive;
+}
+.quote-single p{
+    font-size: 2em;  
+}
+
+.button{
+width: 20%;
+font-weight: bold;
+text-align: center;
+font-size: 2rem;
+cursor: pointer;
+border: none;
+border-radius: 20px;
+background-color: rgb(190, 174, 174);
+}
